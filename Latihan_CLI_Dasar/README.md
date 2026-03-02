@@ -24,7 +24,9 @@
 ## 8. Melihat daftar file dan folder yang sudah di buat
 ### Command : ls
 
-## Menghapus folder dengan nama "latihan4.txt"
+## 9. Menghapus folder dengan nama "latihan4.txt"
 ### Command : rmdir latihan4.txt
+
+---
 
 ![Preview](preview.png)
